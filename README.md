@@ -1,13 +1,15 @@
 # Valorant-Trigger
-Pixel valorant triggerbot cheat.
+- Pixel valorant triggerbot cheat.
 
 # Features
-- Triggerbot with customizable delay (VK_SHIFT)
+- Triggerbot with customizable delay.
+- Cheat key left shift.
 
 # Requirements
 This cheat requires Logitech GHUB driver to be installed on the machine that is running the game/cheat. 
 - Download at https://www.logitechg.com/en-us/innovation/g-hub.html.
-You don't need a Logitech mouse! Use some logitech CVE project and it will works good.                                                                                   For more Logitech Security Vulnerabilities explore the site bellow :
+- You don't need a Logitech mouse! Use some logitech CVE project and it will works good.    
+- For more Logitech Security Vulnerabilities explore the site bellow :
 - https://www.cvedetails.com/vulnerability-list/vendor_id-944/Logitech.html
 
 # About Detection
